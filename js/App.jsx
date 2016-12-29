@@ -10,4 +10,4 @@ const App = React.createClass({
   }
 })
 
-modules.exports = App
+module.exports = App
